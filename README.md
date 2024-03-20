@@ -1,4 +1,4 @@
-# SwissGermanProgrammingKeyboardLayout
+# Swiss German Programming Keyboard Layout
 A Swiss German keyboard layout where the french accents are switched with the braces often used in Programming languages
 ## Normal
 ![SUICode](https://github.com/TheBromo/SwissGermanProgrammingKeyboardLayout/assets/31920727/0d3ef8c3-0f0f-426e-953f-437715f56bff)
